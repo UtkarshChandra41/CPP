@@ -4,5 +4,6 @@ using namespace std;
 int main (){
     float r =5;
     float a = 3.14 * r * r ;
+    cout << "Area of cicle : " ;
     cout << a;
 }
