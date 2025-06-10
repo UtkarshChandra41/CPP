@@ -7,6 +7,9 @@ int main () {
     x=8;
     cout << x << endl;
  
-    float z=2.34;
+    float z=2.34; 
     cout << z << endl;
+
+    double m=2.234;
+    cout << m << endl;
 }
