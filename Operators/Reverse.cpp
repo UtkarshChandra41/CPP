@@ -15,6 +15,6 @@ int main (){
         rev=rev+ld;
         n=n/10;
     }
-   
+
 cout << rev;
 }
