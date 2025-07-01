@@ -1,4 +1,5 @@
 #include<iostream> 
+#include<cmath>
 using namespace std;
 
 //function declaration
@@ -14,6 +15,6 @@ cin >>a;
 int b;
 cout << "Enter 2nd Number :";
 cin>>b;
-cout << sum(a,b);
-
+cout << sum(a,b) << endl;
+cout << sqrt(10);
 }
